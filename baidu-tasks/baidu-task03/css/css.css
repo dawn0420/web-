@@ -21,6 +21,7 @@ body{
     width: 200px;
     height: 120px;
     border: 1px #090909 dotted;
+    overflow: hidden;
 }
 .img-logo{
     position: absolute;
@@ -35,7 +36,7 @@ body{
     position: absolute;
     color: #00aaff;
     top: 10%;
-    right: 0%;
+    right: 0;
     font-weight: bolder;
 }
 .mid{
@@ -43,6 +44,7 @@ body{
     height: 500px;
     background-color: #FFFFFF;
     border: 1px #090909 solid;
+    overflow: hidden;
 }
 
 .right{
