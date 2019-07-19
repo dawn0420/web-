@@ -26,9 +26,10 @@ body{
     position: absolute;
     width: 80px;
     height: 80px;
-    top: 10%;
-    left: 5%;
-    border: 1px #090909 dotted;
+    top: 25%;
+    left: 15%;
+    padding: 0;
+    border: 1px #090909 solid;
 }
 .name-logo{
     position: absolute;
@@ -41,7 +42,7 @@ body{
     flex: 1;
     height: 500px;
     background-color: #FFFFFF;
-    border: 1px #090909 dotted;
+    border: 1px #090909 solid;
 }
 
 .right{
@@ -49,10 +50,12 @@ body{
     width: 120px;
     display: flex;
     flex-flow: column;
-    border: 1px #090909 dotted;
+    border: 1px #090909 solid;
 }
 .img-menber{
-    border: 1px #090909 dotted;
+    border: 1px #090909 solid;
     width: 80px;
     height: 80px;
+    padding: 0;
+    margin: 20px;
 }
